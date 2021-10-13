@@ -25,5 +25,8 @@ print output and type of output
 
 Task4:
 
-create a integer ==> try convert to 
+create a integer ==> try convert to float/bool/string
+create a Float ==> try convert to Int/bool/string
+
+
 
