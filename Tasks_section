@@ -27,6 +27,71 @@ Task4:
 
 create a integer ==> try convert to float/bool/string
 create a Float ==> try convert to Int/bool/string
+create a bool ==> try convert to float/int/string
+create a string ==> try convert to Int/bool/float
+
+
+October 14:
+
+Task1 :
+
+simple interest p * n * r /100
+get p value n value and r value from user
+p ===< integer
+n ===> float
+r ===> float
+
+Output format ===> string format
+
+
+Task2 :
+
+Area of cone: 1/3 * pi * r ^2 * h
+
+get r from user (float)
+get height from user (int)
+
+print output in integer format
+
+
+Task3:
+
+even / odd
+postivie / negative
+prime number / composite number
+factorial
+fibonacci series
+armstrong numbe
+square/ cube or power
+floor div/ ceil divison
+palindrome
+add /sub / mul/ div
+factors or multiples of a number
+
+3 ==> 1,3
+25 ===> 1,5,25
+30 ==> 1,2,3,5,6,15,30
+
+Task4:
+
+"computer_science:
+
+identify foraward and reverse index value for below values
+i
+t
+_
+n
+m
+
+write code for this also
+
+
+
+
+
+
+
+
 
 
 
