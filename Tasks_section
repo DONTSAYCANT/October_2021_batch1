@@ -74,7 +74,7 @@ factors or multiples of a number
 
 Task4:
 
-"computer_science:
+"computer_science"
 
 identify foraward and reverse index value for below values
 i
@@ -86,7 +86,19 @@ m
 write code for this also
 
 
+October 16: 
 
+Task1:
+
+create a string called "computer_science"
+
+extract:
+
+computer
+science
+puter
+_sci
+ter_sci
 
 
 
