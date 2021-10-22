@@ -154,8 +154,21 @@ print(var[-6::-2])
 
 
 
+October 22:
 
+Task1:
 
+https://www.hackerrank.com/challenges/python-mutations/problem
+
+#immutable strings
+
+a = "pothon"
+index = 4
+b = "*"
+
+print(a[index])
+
+a[index] = b
 
 
 
