@@ -170,6 +170,32 @@ print(a[index])
 
 a[index] = b
 
+October 23:
+
+#task1
+https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1
+
+#task2
+
+Get a string or List 
+identify middle element of the string or List
+
+"python" ==> h
+"cpp" ==> p
+"system ==> t
+[1,2,3,4,5] ==> 3
+
+#Task3:
+
+what's your name
+mutation
+swapcase
+capitalize
+Hello wrold
+Arithmetic operators 
+python divison
+
+
 
 
 
