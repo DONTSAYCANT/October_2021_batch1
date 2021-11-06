@@ -361,6 +361,41 @@ split + indexing
 
 https://www.w3schools.com/python/ref_string_strip.asp
 
+November 6:
+
+Task1:
+
+get one number from user:
+
+check whether the number is postive or negative
+
+Task2:
+
+get one number from user:
+
+check whether the number is even or odd or zero
+
+Task3:
+
+Get one string from user
+check whther the given string is palindrome or not
+
+Task4:
+
+Get age from user
+check whether he is eligible for voting 18
+Number years for eligiblilty 
+
+Task5:
+
+#90+ A   80+  B   70+ C  60 + D  50 + E  others Fail
+
+#0 to 100 else: invalid mark
+#Nested if 
+
+
+
+
 
 
 
