@@ -394,8 +394,12 @@ Task5:
 #Nested if 
 
 
+List task:
 
+[50,34,17,23,45,57,45,54,22]
 
+The even elemets list is [50,34,54,22]
+The odd elements list is [17,23,45,57,45]
 
 
 
