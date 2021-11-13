@@ -501,6 +501,55 @@ https://www.hackerrank.com/challenges/py-if-else/problem
 Loops
 ============================
 
+Task1:
+
+Collect one list from user
+
+i) number of elements
+ii) input using loop
+
+Task2
+
+Collect one dictionary from user
+
+i) number of elements
+ii) input using loop (key value pair)
+
+Task3:
+
+input: get a colour user
+
+VIBGYOR
+
+INDIGO  ==> it's available in rainbow and colour number is 2
+
+Rose  ==> IT's not available and no colour code
+
+Task4:
+
+prime
+anagram
+palindrome
+fibonacci
+factorial
+composite number
+muliple
+multiplier
+factors
+lcm
+gcd
+armstrong
+
+#multiples of a number 
+
+#Get one integer from the user
+#9 ==> 1,3,9
+#11 ==> 1,11
+#25 ==> 1,5,25
+#16 ===> 1,2,4,8,16
+
+
+
 
 
 
